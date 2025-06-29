@@ -19,6 +19,7 @@ In the era of increasing dietary awareness, the ability to classify food items b
 **Approach:**
 
 *Data Understanding and Exploration:*
+
   1.Load the food tabular dataset and examine class distribution.
 
   2.Visualize sample entries (rows) to understand inter-class variation.
@@ -26,6 +27,7 @@ In the era of increasing dietary awareness, the ability to classify food items b
   3.Check dataset size, imbalance, and noise levels.
 
 *Data Preprocessing:*
+
   1.Handle missing values (e.g., impute or drop rows with NaNs).
   
   2.Detecting and removing or cap outliers.
@@ -35,6 +37,7 @@ In the era of increasing dietary awareness, the ability to classify food items b
   4.Normalize or standardize numerical features.
 
 *Feature Engineering:*
+
   1.Use PCA or feature selection to reduce dimensionality.
   
   2.Encode class labels using label encoding or one-hot encoding.
