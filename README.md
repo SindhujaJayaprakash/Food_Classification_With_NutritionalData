@@ -80,11 +80,18 @@ Evaluate each model on:
 **Technology:**
 
   1.Data Preprocessing
+  
   2.Classification Modeling
+  
   3.Feature Engineering
+  
   4.Visualization                                                                                                 
+  
   5.Python
+  
   6.Scikit-learn
+  
   7.Pandas
+  
   8.Matplotlib/Seaborn
 
